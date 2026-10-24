@@ -1,7 +1,7 @@
 # Fayçal Braham
 Enseignant et ingénieur en intelligence artificielle et data.
 
-## IA générative et LLM
+## IA générative, agentique et LLM
 - **[consensus-llm](https://github.com/faycalbraham/consensus-llm)** — moteur de consensus multi-modèles : 3 LLM, sorties JSON validées
   (Pydantic AI), juge LLM, boucle human-in-the-loop, traces Langfuse.
 - **[kyc-rag](https://github.com/faycalbraham/kyc-rag)** — RAG pour la conformité KYC / LCB-FT : LangChain, ChromaDB, OCR, Streamlit.
